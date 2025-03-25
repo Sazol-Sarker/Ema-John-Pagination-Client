@@ -25,3 +25,24 @@
     justify-content: space-between;
     align-items: center;
 }
+
+.pagination{
+    text-align: center;
+    margin: 10px
+}
+.pagination button{
+    margin-right: 10px;
+    border: 2px solid teal;
+}
+.pagination select{
+    margin-left: 100px;
+    padding: 10px;
+    color: teal;
+    font-weight: bold;
+}
+.pagination .selectedPage{
+    background-color: orange;
+}
+/* .disable-btn{
+
+} */
